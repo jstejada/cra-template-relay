@@ -18,7 +18,8 @@
     "react-relay": "^7.0.0",
     "relay-compiler-language-typescript": "^10.1.0",
     "relay-compiler": "^7.0.0",
+    "relay-config": "^7.0.0",
     "relay-runtime": "^7.0.0",
     "typescript": "^3.6.0"
-  },
+  }
 }
